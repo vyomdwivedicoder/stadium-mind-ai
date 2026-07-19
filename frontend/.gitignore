@@ -4,6 +4,6 @@ dist/
 .vscode/
 .idea/
 
-.env
+.env.example
 
 coverage/
