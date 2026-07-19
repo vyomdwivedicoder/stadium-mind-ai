@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    background:#081321;
+    color:white;
+    font-family:Segoe UI,sans-serif;
+}
+
+.dashboard{
+    padding:30px;
+    max-width:1400px;
+    margin:auto;
+}
+
+.header{
+    margin-bottom:30px;
+}
+
+.incident-card{
+    background:#122235;
+    border-radius:12px;
+    padding:20px;
+    margin-bottom:18px;
+}
+
+.ai-card{
+    background:#182b46;
+    padding:18px;
+    border-radius:12px;
+}
+
+.decision-card{
+    background:#213451;
+    padding:18px;
+    border-radius:12px;
+}
+
+.loading{
+    padding:30px;
+    text-align:center;
+}
+
+.error-banner{
+    background:#c62828;
+    padding:15px;
+}
